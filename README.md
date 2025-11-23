@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer with strong expertise  in AI (ML & DL), based in Cairo / Egypt.<br>I specialize in:<br>* modern JavaScript (ES6+)<br>- TypeScript<br>- React.js<br>- Next.js <br>for styling: <br>- CSS<br>- SASS<br>- Tailwind CSS<br>- Bootstrap<br><br>Also proficient in state management (Redux, React Query ,Context API), API integration and Git/GitHub workflows.<br><br>On the AI, I have experience with:<br>- Python<br>- Numpy(np)<br>- Pandas(pd)<br>- TensorFlow(tf)<br>- Keras<br><br><br>
+I am a Frontend Developer with strong expertise  in AI (ML & DL), based in Cairo / Egypt.<br>I specialize in:<br>- modern JavaScript (ES6+)<br>- TypeScript<br>- React.js<br>- Next.js <br>for styling: <br>- CSS<br>- SASS<br>- Tailwind CSS<br>- Bootstrap<br><br>Also proficient in state management (Redux, React Query ,Context API), API integration and Git/GitHub workflows.<br><br>On the AI, I have experience with:<br>- Python<br>- Numpy(np)<br>- Pandas(pd)<br>- TensorFlow(tf)<br>- Keras<br><br><br>
 
 
 ## 🌐 Socials:
